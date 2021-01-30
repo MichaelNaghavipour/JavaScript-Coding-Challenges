@@ -1,2 +1,2 @@
 # JavaScript-Coding-Challenges
-React Coding Challenges with Solutions
+JavaScript Coding Challenges with Solutions
