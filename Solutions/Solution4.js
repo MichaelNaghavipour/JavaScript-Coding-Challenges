@@ -1,5 +1,5 @@
 /**
- * Returns the first positive integer in an array. 0 does not count as a positive integer
+ * Returns the first positive integer in an array. 0 does not count as a positive integer 
  * @param {number[]} nums
  * @return {number}
  */
